@@ -1,6 +1,6 @@
 # Name: Darji Dev Manojkumar
 # ID: 202001189
-# Subject: IT314 Software engineering
+# Subject: IT314 Software Engineering
 
 <br>
 
