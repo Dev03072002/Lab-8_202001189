@@ -13,7 +13,7 @@
 **2. Create a class for a Boa.**
 <br>      package JUnit;
  <br>public class Boa {
-<br>  &emsp private String name;
+<br>  private String name;
 <br>private int length; // the length of the boa, in feet
 <br>private String favoriteFood;
 <br>public Boa (String name, int length, String favoriteFood){
@@ -30,12 +30,10 @@
 <br>public boolean fitsInCage(int cageLength){
 <br>return this.length &lt; cageLength;
 <br>}
-<br>public int lengthInInches(){
-<br>return this.length*12;
-<br>// you need to write the body of this method
-<br>}
 <br>}
 <br>
+![image](https://user-images.githubusercontent.com/83688003/233329147-b1002e94-769c-4a44-aa68-451f03d2eb51.png)
+
 <br><br>
 **3. Follow the instructions in the JUnit tutorial in the section “Creating a JUnit
 Test Case in Eclipse”. You’ll be creating a test case for the class Boa. When
